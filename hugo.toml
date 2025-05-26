@@ -1,11 +1,11 @@
 title = 'Zichen Qin'
-baseUrl = 'https://codewithzichen.bine.me/'
+baseUrl = 'https://blog.withzichen.com/'
 languageCode = 'en-us'
 
 defaultContentLanguage = 'en-us'
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
-publishDir = "../prod-site/blog.withzichen.com/"
+publishDir = "../production/blog.withzichen.com/"
 
 theme = 'blog-theme'
 
@@ -14,6 +14,7 @@ theme = 'blog-theme'
     noClasses = false
   [markup.goldmark.renderer]
     unsafe = true
+    xhtml = true
 	[markup.tableOfContents]
 		startLevel = 2 # ToC starts from H2
 		endLevel = 4 # ToC ends at H4
@@ -55,7 +56,7 @@ theme = 'blog-theme'
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "A personal website and blog about some of the things I've made and done with software/hardware. As Tom Scott puts it neatly in his YouTube channel's description ⸺ these will probably come back to haunt me in a few years' time. "
+  description = "Personal blog site"
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = []
@@ -73,9 +74,9 @@ theme = 'blog-theme'
 [Languages.en-us.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Zichen Qin"
+  intro = "Hi there! "
   name = "Zichen Qin"
-  description = "A personal website and blog about some of the things I've made and done with software/hardware. As Tom Scott puts it neatly in his YouTube channel's description ⸺ these will probably come back to haunt me in a few years' time. "
+  description = "Welcome to my personal blog site! Here, you can read [my blog posts](https://blog.withzichen.com/blog/), find [projects](https://blog.withzichen.com/projects/) that I've worked on. Alternatively, check out [the about page](https://blog.withzichen.com/about/) where you can learn more about me and this site"
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
