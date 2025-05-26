@@ -40,15 +40,20 @@ theme = 'blog-theme'
     url = '/blog/'
     weight = 2
   [[Languages.en-us.menu.main]]
+    pageRef="tags"
+    name = 'Tags'
+    url = '/tags/'
+    weight = 2
+  [[Languages.en-us.menu.main]]
     pageRef="projects"
     name = 'Projects'
     url = '/projects/'
-    weight = 2
+    weight = 3
   [[Languages.en-us.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 3
+    weight = 4
 
 [Languages.en-us.params]
   sitename = "Zichen Qin"
