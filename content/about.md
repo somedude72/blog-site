@@ -1,9 +1,9 @@
-+++
-title = 'About'
-comments = false
-+++
+---
+title: "About"
+comments: false
+---
 
-Hi there! My name is Zichen (if you haven't noticed), and welcome/congratulations on stumbling into my personal website! I am a high school student located in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be very frequently updated though.
+Hi there! My name is Zichen (if you haven't noticed), and congratulations on stumbling into my personal website! I am a high school student located in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be very frequently updated though.
 
 #### Website
 
