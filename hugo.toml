@@ -93,8 +93,9 @@ theme = 'blog-theme'
   display = "standalone"
 
 [params]
-goToTop = true
-
+  goToTop = true
+  math = true
+  
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
