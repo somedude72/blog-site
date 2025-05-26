@@ -40,11 +40,6 @@ theme = 'blog-theme'
     url = '/blog/'
     weight = 2
   [[Languages.en-us.menu.main]]
-    pageRef="tags"
-    name = 'Tags'
-    url = '/tags/'
-    weight = 2
-  [[Languages.en-us.menu.main]]
     pageRef="projects"
     name = 'Projects'
     url = '/projects/'
@@ -81,7 +76,7 @@ theme = 'blog-theme'
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Hi there! "
   name = "Zichen Qin"
-  description = "Welcome to my personal blog site! Here, you can read [my blog posts](https://blog.withzichen.com/blog/), find [projects](https://blog.withzichen.com/projects/) that I've worked on. Alternatively, check out [the about page](https://blog.withzichen.com/about/) where you can learn more about me and this site"
+  description = "Welcome to my personal blog site! Here, you can read my blog posts [by time](https://blog.withzichen.com/blog/) or [by tags](https://blog.withzichen.com/tags/), or find [projects](https://blog.withzichen.com/projects/) that I've worked on. Alternatively, check out [the about page](https://blog.withzichen.com/about/) to learn more about me"
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
