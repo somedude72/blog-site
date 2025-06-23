@@ -11,5 +11,3 @@ Here are some of the projects I've worked on in my spare time. Most of these pro
  - [Mpeg-convert](https://github.com/somedude72/mpeg-convert): a wrapper for [ffmpeg](https://ffmpeg.org/) that adds presets and progress bars to FFmpeg.
  - A [machine learning model](https://github.com/somedude72/posture-detection) for detecting good and bad posture from webcam input
  - A basic [command-line calculator](https://github.com/somedude72/py-calculator) written in Python. My first ever programming project. 
-
-Last edited: 05/25/2025

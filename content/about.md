@@ -3,12 +3,16 @@ title: "About"
 comments: false
 ---
 
-Hi there! My name is Zichen (if you haven't noticed), and congratulations on stumbling into my personal website! I am a high school student located in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be very frequently updated though.
+Hi there! My name is Zichen Qin, and congratulations on stumbling into my personal website! I am a high school student located in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be very frequently updated though.
+
+I've a friend who always jokes that I DDOS'd him whenever something broke in his computer or the web service he's trying to access. However, while me DDOS'ing my friend is a joke, [cybersecurity is most definitely not](https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/). So, I kindly ask here that you — ahem — please refrain from sending extraneous packets to intentionally overwhelm my network infrastructure. No but seriously, don't DDOS me. 
 
 #### Website
 
 This website is created using the [hugo static site generator](https://gohugo.io/) with a minimally customized [hugo blog awesome theme](https://github.com/hugo-sid/hugo-blog-awesome). It is hosted on my Raspberry Pi sitting behind the [Cloudflare](https://www.cloudflare.com/) infrastructure. The source code for the site is located [on GitHub](https://github.com/somedude72/blog-site). Thanks to the creators of all of these tools as well as numerous YouTube tutorials for making it possible and easy for me to create this website.
 
-This website solely reflects my opinion, which may or may not me factual or correct. Please be sure to do your research before believing in what I say. 
+This website solely reflects my opinion, which may or may not me factual or correct. Please be sure to do your research before believing in what I say! 
 
-Last edited: 05/25/2025
+#### Contact
+
+You can reach out and contact me by email at [connect@withzichen.com](mailto:connect@withzichen.com). You can also find me on [GitHub](https://github.com/somedude72), where I publish the computery things that I've been working on, and [YouTube](https://youtube.com/somedude_72), where I sometimes (not often though) post gaming clips. 
