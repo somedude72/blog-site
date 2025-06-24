@@ -1,4 +1,4 @@
----
+g--
 title: "About"
 comments: false
 ---
@@ -15,4 +15,4 @@ This website solely reflects my opinion, which may or may not me factual or corr
 
 #### Contact
 
-You can reach out and contact me by email at [connect@withzichen.com](mailto:connect@withzichen.com). You can also find me on [GitHub](https://github.com/somedude72), where I publish the computery things that I've been working on, and [YouTube](https://youtube.com/somedude_72), where I sometimes (not often though) post gaming clips. 
+You can reach out and contact me by email at [connect@withzichen.com](mailto:connect@withzichen.com). You can also find me on [GitHub](https://github.com/somedude72), where I publish the computery things that I've been working on, and [YouTube](https://youtube.com/@somedude_72), where I sometimes (not often though) post gaming clips. 
