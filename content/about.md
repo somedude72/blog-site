@@ -3,7 +3,7 @@ title: "About"
 comments: false
 ---
 
-Hi there! My name is Zichen Qin, and congratulations on stumbling into my personal website! I am a high school student located in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be very frequently updated though.
+Hi there! My name is Zichen, and congratulations on stumbling into my blog website! I am a high school student in Silicon Valley. I enjoy programming, skiing, and cooking (although I'm not very good at it). I speak English, Mandarin, [Sichuanese](https://en.wikipedia.org/wiki/Sichuanese_dialects) with varying levels of proficiency. Here, you will find [blog posts](https://blog.withzichen.com/blog/) that I write when I experience extreme boredom or when I go through any noteworthy experiences. The blog posts probably won't be super good though.
 
 I've a friend who always jokes that I DDOS'd him whenever something broke in his computer or the web service he's trying to access. However, while me DDOS'ing my friend is a joke, [cybersecurity is most definitely not](https://blog.cloudflare.com/ddos-threat-report-for-2024-q4/). So, I kindly ask here that you — ahem — please refrain from sending extraneous packets to intentionally overwhelm my network infrastructure. No but seriously, don't DDOS me. 
 
@@ -15,4 +15,6 @@ This website solely reflects my opinion, which may or may not me factual or corr
 
 #### Contact
 
-You can reach out and contact me by email at [connect@withzichen.com](mailto:connect@withzichen.com). You can also find me on [GitHub](https://github.com/somedude72), where I publish the computery things that I've been working on, and [YouTube](https://youtube.com/somedude_72), where I sometimes (not often though) post gaming clips. 
+You can reach out and contact me by email at my public email [connect@withzichen.com](mailto:connect@withzichen.com). You can also find me on [GitHub](https://github.com/somedude72), where I publish the computery things that I've been working on (most of which are just results of me getting lost in some random rabbit hole), and [YouTube](https://youtube.com/somedude_72), where I sometimes post stuff. 
+
+And lastly I hope whoever is reading this have a wonderful rest of your day :)
