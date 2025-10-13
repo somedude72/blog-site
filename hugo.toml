@@ -7,7 +7,13 @@ enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
 publishDir = "../production/blogs.withzichen.com/"
 
-theme = 'blog-theme'
+theme = "blog-theme"
+
+disableKinds = ["taxonomy", "term"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [markup]
   [markup.highlight]
@@ -74,9 +80,9 @@ theme = 'blog-theme'
 [Languages.en-us.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Hi there! "
+  intro = "Hey there! "
   name = "Zichen Qin"
-  description = "Welcome to my personal blog site! Here, you can read my blog posts [by time](https://blog.withzichen.com/blog/) or [by tags](https://blog.withzichen.com/tags/), or find [projects](https://blog.withzichen.com/projects/) that I've worked on. Alternatively, check out [the about page](https://blog.withzichen.com/about/) to learn more about me"
+  description = "Welcome to my website! Here, you can find and read my [blogs](/blog/), look at some [projects](/projects/) that I made, or learn more [about me](/about/). "
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
