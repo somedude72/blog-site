@@ -105,6 +105,6 @@ name = "github"
 url = "https://github.com/SomedudeX"
 
 [[params.socialIcons]]
-name = "rss"
-url = "/index.xml"
+name = "youtube"
+url = "https://youtube.com/@somedude72"
 
