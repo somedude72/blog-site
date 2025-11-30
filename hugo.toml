@@ -62,7 +62,7 @@ disableKinds = ["taxonomy", "term"]
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Personal blog site"
+  description = "Personal website for my blogs, projects, among other things"
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = []
@@ -83,7 +83,7 @@ disableKinds = ["taxonomy", "term"]
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Hey there! "
   name = "Zichen Qin"
-  description = "Welcome to my website! Here, you can find and read my [blogs](/blog/), look at some [projects](/projects/) that I made, or learn more [about me](/about/). "
+  description = "I'm Zichen. Here, you can find and read my [blog posts](/blog/), look at some of my [past projects](/projects/), or learn more [about me](/about/). "
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]

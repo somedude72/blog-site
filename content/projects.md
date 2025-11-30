@@ -3,7 +3,7 @@ title: "Projects"
 comments: false
 ---
 
-Here are some cool projects I made in my spare time. Most of these projects are completely just me screwing around for fun. These projects are also present on [my Github](https://github.com/somedude72) if you feel inclined to check them out. They are roughly ordered from oldest to newest (newest on top):
+Here are some interesting projects I made in my spare time. Most of them are completely just me screwing around for fun. These projects are also present on [my Github](https://github.com/somedude72) if you feel inclined to check them out. They are roughly ordered from oldest to newest (newest on top):
 
  - [Vint](https://github.com/somedude72/vint): A C++ library that provides [arbitrary precision arithmetic](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) operations. See [blog](/blog/05/).
  - [Minesweeper](https://github.com/somedude72/minesweeper): A clone of the original minesweeper program found on Windows 95. 
